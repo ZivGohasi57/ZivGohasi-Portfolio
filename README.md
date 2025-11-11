@@ -74,7 +74,7 @@ Developed with clean modular structure and reusability in mind.
 
 ## 📬 Contact
 <p align="center">
-  📧 <a href="mailto:zivgohasi57@gmail.com">zivgohasi57@gmail.com</a> • 
+  📧 <a href="mailto:zivgohasi@gmail.com">zivgohasi@gmail.com</a> • 
   💼 <a href="https://www.linkedin.com/in/ziv-gohasi">LinkedIn</a> • 
   🧩 <a href="https://github.com/ZivGohasi57">GitHub</a>
 </p>
