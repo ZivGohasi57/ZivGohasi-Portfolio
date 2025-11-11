@@ -36,6 +36,13 @@ Focuses on modular architecture, error handling, and lightweight unit testing.
 
 ---
 
+### 🧾 E-Commerce Database Project (Java + SQL)
+Comprehensive academic project integrating Java OOP with PostgreSQL database design.  
+Implements full E-Commerce logic, ERD modeling, and SQL schema creation with JDBC connectivity.  
+**Repo:** [E-Commerce Database Project](https://github.com/ZivGohasi57/E-Commerce-DB-Project)
+
+---
+
 ### 🎮 Game Development Scripts (Unity / C#)
 Reusable gameplay components — movement, AI, inventory, and pooling systems — for Unity projects.  
 Developed with clean modular structure and reusability in mind.  
@@ -67,8 +74,8 @@ Developed with clean modular structure and reusability in mind.
 | **Frameworks** | .NET (ASP.NET, Razor, WinForms), React + Vite, TailwindCSS, Node.js (basic), Unity |
 | **Concepts** | OOP, Data Structures & Algorithms, REST APIs, Client–Server Architecture, Networking (TCP/IP), Concurrency, Debugging & Validation |
 | **Testing** | assert, xUnit, NUnit, JUnit, Jest (basics) |
-| **Databases** | SQL (SQLite, MySQL), JSON/CSV file persistence, basic schema design |
-| **Tools** | Git & GitHub, Visual Studio, VS Code, Linux CLI, Postman, Docker (intro level), Figma |
+| **Databases** | SQL (SQLite, MySQL, PostgreSQL), JSON/CSV file persistence, schema design |
+| **Tools** | Git & GitHub, Visual Studio, VS Code, IntelliJ, Linux CLI, Postman, Docker (intro), Figma |
 
 ---
 
@@ -84,3 +91,4 @@ Developed with clean modular structure and reusability in mind.
 <p align="center">
   <sub>© 2025 Ziv Gohasi • Portfolio built for educational and showcase purposes</sub>
 </p>
+
