@@ -8,11 +8,15 @@
 
 ## 🌟 Featured Projects
 
-### 🍎 Private Tutor CRM (React + Firebase + Node.js)
-A full-stack management ecosystem for private educators, combining a **React** web dashboard with a **Telegram Bot** assistant.  
-Features real-time scheduling, financial tracking (cash-flow), and automated lesson reminders.  
-Built with a microservices architecture deployed on **Vercel** (Frontend) and **Render** (Bot Service).  
-**Repo:** [Private Tutor CRM](https://github.com/ZivGohasi57/Private-Tutor-CRM)
+### 🍎 Private Tutor CRM Ecosystem (React + Node.js + Firebase)
+A complete management solution for private educators, architected as two decoupled microservices:
+
+1.  **Web Dashboard (Frontend):** A React application for student management, scheduling, and financial reports.
+2.  **Telegram Bot Service (Backend):** A Node.js background service handling cron-jobs, reminders, and quick commands.
+
+**Repositories:**
+👉 **[Web Dashboard Repo](https://github.com/ZivGohasi57/Private-Tutor-CRM)** (The React App)
+👉 **[Bot Service Repo](https://github.com/ZivGohasi57/Private-Tutor-CRM-Bot)** (The Node.js Microservice)
 
 ---
 
