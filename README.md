@@ -8,6 +8,14 @@
 
 ## 🌟 Featured Projects
 
+### 🍎 Private Tutor CRM (React + Firebase + Node.js)
+A full-stack management ecosystem for private educators, combining a **React** web dashboard with a **Telegram Bot** assistant.  
+Features real-time scheduling, financial tracking (cash-flow), and automated lesson reminders.  
+Built with a microservices architecture deployed on **Vercel** (Frontend) and **Render** (Bot Service).  
+**Repo:** [Private Tutor CRM](https://github.com/ZivGohasi57/Private-Tutor-CRM)
+
+---
+
 ### 🧩 Half-Chess Project (.NET)
 A simplified chess game with an ASP.NET Razor web UI and a C# client.  
 Includes move validation, player registration, and server-side logic testing.  
@@ -71,11 +79,11 @@ Developed with clean modular structure and reusability in mind.
 | Category | Technologies |
 |-----------|---------------|
 | **Languages** | C, C++, C#, Java, Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3 |
-| **Frameworks** | .NET (ASP.NET, Razor, WinForms), React + Vite, TailwindCSS, Node.js (basic), Unity |
-| **Concepts** | OOP, Data Structures & Algorithms, REST APIs, Client–Server Architecture, Networking (TCP/IP), Concurrency, Debugging & Validation |
-| **Testing** | assert, xUnit, NUnit, JUnit, Jest (basics) |
-| **Databases** | SQL (SQLite, MySQL, PostgreSQL), JSON/CSV file persistence, schema design |
-| **Tools** | Git & GitHub, Visual Studio, VS Code, IntelliJ, Linux CLI, Postman, Docker (intro), Figma |
+| **Frameworks** | .NET (ASP.NET, Razor, WinForms), React + Vite, TailwindCSS, Node.js, Unity |
+| **Concepts** | OOP, Data Structures & Algorithms, REST APIs, Microservices, Client–Server Architecture, Networking (TCP/IP), Concurrency |
+| **Testing** | assert, xUnit, NUnit, JUnit, Jest |
+| **Databases** | SQL (SQLite, MySQL, PostgreSQL), Firebase Firestore (NoSQL), JSON/CSV persistence |
+| **Tools** | Git & GitHub, Visual Studio, VS Code, Postman, Docker, Figma, Vercel, Render |
 
 ---
 
@@ -91,4 +99,3 @@ Developed with clean modular structure and reusability in mind.
 <p align="center">
   <sub>© 2025 Ziv Gohasi • Portfolio built for educational and showcase purposes</sub>
 </p>
-
