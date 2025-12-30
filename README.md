@@ -1,89 +1,76 @@
 <h1 align="center">💻 Ziv Gohasi — Portfolio</h1>
 <p align="center">
   <b>Computer Science Student @ Afeka College</b><br/>
-  Focused on backend development, C/C++, .NET, and scalable system design.
+  Focused on Backend Development, Scalable System Design, and Cyber Security.
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Flagship Projects
 
-### 🍎 Private Tutor CRM Ecosystem (React + Node.js + Firebase)
-A complete management solution for private educators, architected as two decoupled microservices:
+### 🍎 Private Tutor CRM Ecosystem (Full Stack Microservices)
+A comprehensive management ecosystem for private educators, architected as **two decoupled microservices** to ensure scalability and separation of concerns.
 
-1.  **Web Dashboard (Frontend):** A React application for student management, scheduling, and financial reports.
-2.  **Telegram Bot Service (Backend):** A Node.js background service handling cron-jobs, reminders, and quick commands.
+1.  **Web Dashboard (Frontend):** A **React** application for student management, financial tracking, and scheduling.
+2.  **Telegram Bot Service (Backend):** A **Node.js** background worker handling **Cron jobs**, automated reminders, and quick commands via API integration.
 
-**Repositories:**
-👉 **[Web Dashboard Repo](https://github.com/ZivGohasi57/Private-Tutor-CRM)** (The React App)
-👉 **[Bot Service Repo](https://github.com/ZivGohasi57/Private-Tutor-CRM-Bot)** (The Node.js Microservice)
+**Key Tech:** React, Node.js, Firebase (Firestore & Cloud Functions), REST APIs.
+<br/>
+👉 **[View Dashboard Repo](https://github.com/ZivGohasi57/Private-Tutor-CRM)** | 👉 **[View Bot Service Repo](https://github.com/ZivGohasi57/Private-Tutor-CRM-Bot)**
 
 ---
 
 ### 🔐 SafeVault — Local Password Manager (Python)
-A secure, standalone desktop application for managing sensitive credentials locally on macOS.
-* **Security:** Implements military-grade **AES-256 encryption** with PBKDF2 key derivation.
-* **UI/UX:** Custom **Tkinter** interface designed with native macOS Dark Mode support.
-* **Deployment:** Packaged as a standalone `.app` executable using **PyInstaller**.
+A secure, standalone desktop application for managing sensitive credentials locally.
+* **Security First:** Implements military-grade **AES-256 encryption** with **PBKDF2** key derivation for robust data protection.
+* **System Design:** Custom **Tkinter** GUI designed with native macOS Dark Mode support.
+* **Deployment:** Packaged as a fully compiled standalone `.app` using **PyInstaller**.
+
 **Repo:** [SafeVault](https://github.com/ZivGohasi57/SafeVault)
 
 ---
 
-### 🧩 Half-Chess Project (.NET)
-A simplified chess game with an ASP.NET Razor web UI and a C# client.  
-Includes move validation, player registration, and server-side logic testing.  
-**Repo:** [Half-Chess Project (.NET)](https://github.com/ZivGohasi57/Half-Chess-Project-.NET-)
+### 🛠️ Game Development Systems (Unity / C#)
+A collection of modular systems and architectural patterns for game development, focusing on reusability and clean code rather than simple gameplay.
+* **Architecture:** Implements **Pooling Systems**, finite state machines (FSM) for AI, and decoupled Inventory systems.
+* **Design Patterns:** Heavy use of Singleton and Observer patterns to manage game state.
+
+👉 **[View Repository](https://github.com/ZivGohasi57/Game-Development-Scripts)** | 🎬 **[Watch Full Gameplay Video](https://drive.google.com/file/d/1hnek_utfByi0nZN4sLvUJr2yDJiiI8cS/view)**
 
 ---
 
-### 🛍️ E-Commerce Management System (C)
-Console-based retail management system that handles products, customers, and purchases.  
-Implements validation, structured data handling, and file persistence.  
-**Repo:** [E-Commerce (C)](https://github.com/ZivGohasi57/E-Commerce-CProject)
+## 💻 Technical & Academic Projects
 
----
-
-### 🎓 PathWise (React + Vite)
-Developed for Afeka Hackathon 2025 — a platform to simplify academic planning and course management.  
-Built with React, Vite, and TailwindCSS; Base44 was used for rapid early prototyping before full manual customization.  
-**Repo:** [PathWise](https://github.com/ZivGohasi57/pathwise)
-
----
-
-### ✈️ Flight Company Management System (C++)
-An object-oriented system for managing flights, passengers, and bookings.  
-Focuses on modular architecture, error handling, and lightweight unit testing.  
-**Repo:** [FlightCompanyProject (C++)](https://github.com/ZivGohasi57/FlightCompanyProject-CPP)
-
----
-
-### 🧾 E-Commerce Database Project (Java + SQL)
-Comprehensive academic project integrating Java OOP with PostgreSQL database design.  
-Implements full E-Commerce logic, ERD modeling, and SQL schema creation with JDBC connectivity.  
+### 🧾 E-Commerce Database System (Java + SQL)
+A backend-focused project integrating **Java OOP** principles with relational database design.
+* **Data Access:** Direct **JDBC** implementation for complex SQL queries.
+* **Architecture:** Structured with layered separation (DAO, Service, Controller) and PostgreSQL integration.
 **Repo:** [E-Commerce Database Project](https://github.com/ZivGohasi57/E-Commerce-DB-Project)
 
----
+### 🧩 Half-Chess Project (.NET)
+A chess variant implementation demonstrating Microsoft's web stack.
+* **Tech:** ASP.NET Razor Pages for server-side rendering and C# for game logic.
+* **Features:** Server-side move validation and player session management.
+**Repo:** [Half-Chess Project (.NET)](https://github.com/ZivGohasi57/Half-Chess-Project-.NET-)
 
-### 🎮 Game Development Scripts (Unity / C#)
-Reusable gameplay components — movement, AI, inventory, and pooling systems — for Unity projects.  
-Developed with clean modular structure and reusability in mind.  
-**Repo:** [Game Development Scripts](https://github.com/ZivGohasi57/Game-Development-Scripts)
+### 🎓 PathWise (React + Vite)
+Academic planning platform developed for Afeka Hackathon 2025.
+Built for speed and performance using **Vite** and **TailwindCSS**, focusing on modern frontend practices.
+**Repo:** [PathWise](https://github.com/ZivGohasi57/pathwise)
 
----
+### ✈️ Flight Company Management (C++)
+Object-Oriented system demonstrating memory management and standard C++ patterns.
+Focuses on inheritance, polymorphism, and file I/O operations.
+**Repo:** [FlightCompanyProject (C++)](https://github.com/ZivGohasi57/FlightCompanyProject-CPP)
 
-## 📁 Additional Projects
+### 🛍️ Retail Management System (C)
+Low-level implementation of a retail system in C.
+Demonstrates manual memory management, pointer arithmetic, and struct-based data structures.
+**Repo:** [E-Commerce (C)](https://github.com/ZivGohasi57/E-Commerce-CProject)
 
-- 🧠 **2048 (C)** — Terminal implementation with deterministic logic and unit tests.  
-  [Repo](https://github.com/ZivGohasi57/2048-Game)
-
-- 🎈 **Bubble Game (WinForms / C#)** — Animated game featuring collisions, scoring, and responsive UI separation.  
-  [Repo](https://github.com/ZivGohasi57/BubbleGame-Winforms-Project)
-
-- ❌ **Tic-Tac-Toe (.NET / C#)** — Minimalistic design with isolated game logic and rule testing.  
-  [Repo](https://github.com/ZivGohasi57/Tic-Tac-Toe-Game)
-
-- ☕ **E-Commerce (Java)** — Console app with layered architecture (domain, services, persistence) and JUnit tests.  
-  [Repo](https://github.com/ZivGohasi57/E-Commerce-Project.java)
+### 🧠 2048 Logic Implementation (C)
+A deterministic implementation of the 2048 game logic in C, focusing on matrix manipulation and algorithmic efficiency in a terminal environment.
+**Repo:** [2048 Game](https://github.com/ZivGohasi57/2048-Game)
 
 ---
 
@@ -91,12 +78,11 @@ Developed with clean modular structure and reusability in mind.
 
 | Category | Technologies |
 |-----------|---------------|
-| **Languages** | C, C++, C#, Java, Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3 |
-| **Frameworks** | .NET (ASP.NET, Razor, WinForms), React + Vite, TailwindCSS, Node.js, Unity, Tkinter |
-| **Concepts** | OOP, Data Structures & Algorithms, REST APIs, Microservices, Client–Server Architecture, Networking (TCP/IP), Concurrency, Cryptography |
-| **Testing** | assert, xUnit, NUnit, JUnit, Jest |
-| **Databases** | SQL (SQLite, MySQL, PostgreSQL), Firebase Firestore (NoSQL), JSON/CSV persistence |
-| **Tools** | Git & GitHub, Visual Studio, VS Code, Postman, Docker, Figma, Vercel, Render, PyInstaller |
+| **Languages** | Python, JavaScript (ES6+), C#, Java, C++, C, SQL |
+| **Backend & Cloud** | Node.js, ASP.NET, Firebase (Firestore/Functions), PostgreSQL |
+| **Frontend** | React, Vite, TailwindCSS, HTML5/CSS3 |
+| **Concepts** | Microservices, OOP, REST APIs, Cryptography (AES/PBKDF2), Data Structures |
+| **Tools** | Git, Docker, Postman, Visual Studio, PyInstaller |
 
 ---
 
@@ -105,10 +91,4 @@ Developed with clean modular structure and reusability in mind.
   📧 <a href="mailto:zivgohasi@gmail.com">zivgohasi@gmail.com</a> • 
   💼 <a href="https://www.linkedin.com/in/ziv-gohasi">LinkedIn</a> • 
   🧩 <a href="https://github.com/ZivGohasi57">GitHub</a>
-</p>
-
----
-
-<p align="center">
-  <sub>© 2025 Ziv Gohasi • Portfolio built for educational and showcase purposes</sub>
 </p>
