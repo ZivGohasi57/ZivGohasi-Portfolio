@@ -53,11 +53,6 @@ A chess variant implementation demonstrating Microsoft's web stack.
 * **Features:** Server-side move validation and player session management.
 **Repo:** [Half-Chess Project (.NET)](https://github.com/ZivGohasi57/Half-Chess-Project-.NET-)
 
-### 🎓 PathWise (React + Vite)
-Academic planning platform developed for Afeka Hackathon 2025.
-Built for speed and performance using **Vite** and **TailwindCSS**, focusing on modern frontend practices.
-**Repo:** [PathWise](https://github.com/ZivGohasi57/pathwise)
-
 ### ✈️ Flight Company Management (C++)
 Object-Oriented system demonstrating memory management and standard C++ patterns.
 Focuses on inheritance, polymorphism, and file I/O operations.
@@ -80,7 +75,7 @@ A deterministic implementation of the 2048 game logic in C, focusing on matrix m
 |-----------|---------------|
 | **Languages** | Python, JavaScript (ES6+), C#, Java, C++, C, SQL |
 | **Backend & Cloud** | Node.js, ASP.NET, Firebase (Firestore/Functions), PostgreSQL |
-| **Frontend** | React, Vite, TailwindCSS, HTML5/CSS3 |
+| **Frontend** | React, TailwindCSS, HTML5/CSS3 |
 | **Concepts** | Microservices, OOP, REST APIs, Cryptography (AES/PBKDF2), Data Structures |
 | **Tools** | Git, Docker, Postman, Visual Studio, PyInstaller |
 
