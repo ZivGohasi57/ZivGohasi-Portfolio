@@ -20,6 +20,15 @@ A complete management solution for private educators, architected as two decoupl
 
 ---
 
+### 🔐 SafeVault — Local Password Manager (Python)
+A secure, standalone desktop application for managing sensitive credentials locally on macOS.
+* **Security:** Implements military-grade **AES-256 encryption** with PBKDF2 key derivation.
+* **UI/UX:** Custom **Tkinter** interface designed with native macOS Dark Mode support.
+* **Deployment:** Packaged as a standalone `.app` executable using **PyInstaller**.
+**Repo:** [SafeVault](https://github.com/ZivGohasi57/SafeVault)
+
+---
+
 ### 🧩 Half-Chess Project (.NET)
 A simplified chess game with an ASP.NET Razor web UI and a C# client.  
 Includes move validation, player registration, and server-side logic testing.  
@@ -83,11 +92,11 @@ Developed with clean modular structure and reusability in mind.
 | Category | Technologies |
 |-----------|---------------|
 | **Languages** | C, C++, C#, Java, Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3 |
-| **Frameworks** | .NET (ASP.NET, Razor, WinForms), React + Vite, TailwindCSS, Node.js, Unity |
-| **Concepts** | OOP, Data Structures & Algorithms, REST APIs, Microservices, Client–Server Architecture, Networking (TCP/IP), Concurrency |
+| **Frameworks** | .NET (ASP.NET, Razor, WinForms), React + Vite, TailwindCSS, Node.js, Unity, Tkinter |
+| **Concepts** | OOP, Data Structures & Algorithms, REST APIs, Microservices, Client–Server Architecture, Networking (TCP/IP), Concurrency, Cryptography |
 | **Testing** | assert, xUnit, NUnit, JUnit, Jest |
 | **Databases** | SQL (SQLite, MySQL, PostgreSQL), Firebase Firestore (NoSQL), JSON/CSV persistence |
-| **Tools** | Git & GitHub, Visual Studio, VS Code, Postman, Docker, Figma, Vercel, Render |
+| **Tools** | Git & GitHub, Visual Studio, VS Code, Postman, Docker, Figma, Vercel, Render, PyInstaller |
 
 ---
 
